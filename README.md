@@ -4,6 +4,8 @@ This Streamlit dashboard explores the distribution, classification, and composit
 
 ---
 
+
+
 ##  Objectives
 
 - Analyze total and average waste volumes across sites and departments
@@ -46,17 +48,37 @@ project_root/ ├── app.py ├── data/ │ └── dechets-declares-a-
 
 ##  Installation & Run Instructions
 
-```bash
-# Clone the repo
+### Clone the repo
 git clone <your-repo-url>
 cd project_root
 
-# Create virtual environment (optional but recommended)
+### Create virtual environment (optional but recommended)
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+### Run the app
 streamlit run app.py
+
+
+---
+##  Streamlit app
+
+Link deployed : https://radioactive-waste-dashboardwithapp-softmjs9ehug5xepmwe3zt.streamlit.app/
+
+
+---
+##  Repo Link
+
+Link : https://github.com/zorobabel33/radioactive-waste-dashboard_with_streamlit
+
+---
+
+## 🎥 Demo Video
+
+Watch the full walkthrough of the dashboard:  the video is inside the project folder.
+
+
+---
