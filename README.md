@@ -76,7 +76,7 @@ Link : https://github.com/zorobabel33/radioactive-waste-dashboard_with_streamlit
 
 ---
 
-## 🎥 Demo Video
+## Demo Video
 
 Watch the full walkthrough of the dashboard:  the video is inside the project folder.
 
